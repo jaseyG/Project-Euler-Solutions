@@ -1,0 +1,1 @@
+My solutions to project euler archive. They are majorly dependent on the custom module 'calculations' which just has a simple prime checker among a few other things that can save time as many questions have similar requirements (i.e. primes, pascal's triangle). 
